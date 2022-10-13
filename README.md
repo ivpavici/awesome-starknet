@@ -77,6 +77,7 @@
 
 - [StarkNet Ecosystem](https://starknet-ecosystem.com) -
   A [community-driven](https://github.com/419Labs/starknet-ecosystem.com) initiative to showcase projects and teams building on StarkNet.
+- [Starknet community documentation](https://docs.starknet.io/) - Starknet docs maintained by the community
 
 #### Tutorials
 - [Full-Stack StarkNet](https://github.com/sambarnes/fullstack-starknet) - Tutorials introducing a little bit of everything in a DApp.
